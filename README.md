@@ -1,3 +1,2 @@
 # staticweb_demo
-github pages
-hello world!!!
+Learn how to build a static website.
